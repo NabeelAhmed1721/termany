@@ -1,4 +1,4 @@
 # termany
 A user-friendly desktop app to help manage running commands a breeze 👾💨🌈
 
-__Work in Progress!___
+_Work in Progress!_
