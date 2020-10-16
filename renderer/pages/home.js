@@ -1,5 +1,5 @@
-export default function Home() {
-    return (
-        <h1>termany!</h1>
-    )
+export default function Home () {
+  return (
+    <h1>termany!</h1>
+  )
 }
