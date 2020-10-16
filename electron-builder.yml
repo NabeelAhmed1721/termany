@@ -1,6 +1,4 @@
-appId: com.example.nextron
-productName: My Nextron App
-copyright: Copyright © 2018 Yoshihide Shiono
+productName: termany
 directories:
   output: dist
   buildResources: resources
@@ -9,4 +7,9 @@ files:
     filter:
       - package.json
       - app
+
+# Mac OS configuration
+mac:
+  icon: "resources/icon.icns"
+
 publish: null

@@ -27,6 +27,8 @@ if (isProd) {
   }
 })()
 
+app.commandLine.appendSwitch('disable-http-cache')
+
 app.on('window-all-closed', () => {
   app.quit()
 })
