@@ -1,0 +1,6 @@
+.container {
+    position: absolute;
+    width: calc(100% - 150px);
+    left: 150px;
+    background-color: rgb(255, 213, 224);
+}

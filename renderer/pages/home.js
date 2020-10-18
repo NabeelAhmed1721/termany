@@ -1,5 +1,10 @@
+import { Dashboard, Menu } from '../components/'
+
 export default function Home () {
   return (
-    <h1>termany!</h1>
+    <>
+      <Menu />
+      <Dashboard />
+    </>
   )
 }
